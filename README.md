@@ -1,3 +1,23 @@
+Code Igniter - Gocart
+----------------------
+Adapted for Code Igniter and Gocart
+
+
+Installation
+=============
+Files go in their respective directories.
+
+Don't forget to to put your API key and callback in config file(application/gocart/config/sample-social.php),
+and rename it to social.php
+
+Questions regarding this adaptation can be directed to admin@hypersocialmobile.com
+
+See below for original documentation.
+
+Enjoy!
+----------------------
+
+
 TwitterOAuth
 ------------
 
