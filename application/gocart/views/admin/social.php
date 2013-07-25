@@ -15,7 +15,9 @@ include('header.php');?>
 
         <p>
             Links:
-            <a href='http://github.com/abraham/twitteroauth'>Source Code</a> &amp;
+            <a href='https://github.com/0ld-5ch001/twitteroauthcigc'>Adapted Source Code</a> |
+            Contact @<a href='https://twitter.com/HyperSMobile'>Reiser, </a>
+            <a href='http://github.com/abraham/twitteroauth'>Original Source Code</a> &amp;
             <a href='http://wiki.github.com/abraham/twitteroauth/documentation'>Documentation</a> |
             Contact @<a href='http://twitter.com/abraham'>abraham</a>
         </p>

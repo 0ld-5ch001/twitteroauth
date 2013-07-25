@@ -133,3 +133,4 @@ Contributors
 ============
 
 * [Abraham Williams](https://twitter.com/abraham) - Main developer, current maintainer.
+* [Reiser Mayne](http://hypersocialmobile.com) - Adapted for Code Igniter and Gocart.
